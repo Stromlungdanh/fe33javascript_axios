@@ -1,5 +1,12 @@
 var nguoiDungService = new NguoiDungService();
 
+
+function themNguoiDungTest(){
+    console.log("Them nguoi dung");
+}
+
+
+
 getListUser();
 
 
